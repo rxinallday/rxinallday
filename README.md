@@ -2,7 +2,7 @@
 
 # 🌌 **rxinallday**
 
-> **My name is Stewie**  
+> **string identity = "aqxue"**  
 > Welcome to my profile — a space where creativity meets code.
 
 ---
@@ -11,8 +11,8 @@
 
 - 🎨 Passionate about coding and learning new skills.
 - 💻 Passionate about clean code and creative projects.
-- 🔒I’m involved in reverse engineering and problem-solving.
-- 🟩Always open to new challenges and opportunities.
+- 🔒 I’m involved in reverse engineering and problem-solving.
+- 🟩 Always open to new challenges and opportunities.
 
 ---
 
