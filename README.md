@@ -1,6 +1,6 @@
 [![1.jpg](https://i.postimg.cc/VLpKfzpx/1.jpg)](https://postimg.cc/xcGvgV05)
 
-# 🌌 **rxinallday**
+# 🌌 **aqxue**
 
 > **string identity = "aqxue"**  
 > Welcome to my profile — a space where creativity meets code.
